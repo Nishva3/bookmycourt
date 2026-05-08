@@ -1,0 +1,27 @@
+# Backend
+bookmycourt_backend/target/
+bookmycourt_backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.log
+
+# Frontend
+my-dashboard/node_modules/
+my-dashboard/build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
+
+# Env
+.env
+.env.local
