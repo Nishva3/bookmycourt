@@ -142,14 +142,19 @@ npm start
 
 ## 📸 Screenshots
 
-> Coming soon
+<img width="1920" height="912" alt="01_login_page" src="https://github.com/user-attachments/assets/e26a05d8-ed2e-448d-93e9-10bf0fff5fb4" />
 
----
+<img width="1920" height="912" alt="02_sport_selection" src="https://github.com/user-attachments/assets/958e3590-65e5-4840-abcd-2f6fdb977662" />
 
-## 👨‍💻 Author
+<img width="1920" height="912" alt="03_booking_page" src="https://github.com/user-attachments/assets/c90887e8-cdf3-414c-bb41-348aad3138ab" />
 
-**Nishva Shah**
-- GitHub: [@Nishva3](https://github.com/Nishva3)
+<img width="1920" height="912" alt="04_court_selection" src="https://github.com/user-attachments/assets/0086f021-fd0b-45e8-be16-900fed471810" />
+
+<img width="1920" height="912" alt="05_admin_dashboard" src="https://github.com/user-attachments/assets/d2911654-2b24-445a-a6c8-bff9109d0ad2" />
+
+<img width="1920" height="912" alt="06_admin_users" src="https://github.com/user-attachments/assets/12a48f37-ca50-4c85-9d0d-572981158f13" />
+
+<img width="1920" height="912" alt="07_admin_venues" src="https://github.com/user-attachments/assets/d674e65b-0fcd-4518-8a2d-933c8c694168" />
 
 ---
 
